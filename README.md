@@ -14,7 +14,10 @@ In the project directory, you can run:
 - CSS - Is used to style the pages.
 - Reactjs - Is used to build the reactivity of the page and functionality.
 - JavaScript - Functionality of the website includes, click events and search.
+### `npm start`
 
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ### BUGS
